@@ -1,1 +1,1 @@
-Sitemap: https://www.erenozek.com/sitemap.xml
+Sitemap: http://www.erenozek.com/sitemap.xml
